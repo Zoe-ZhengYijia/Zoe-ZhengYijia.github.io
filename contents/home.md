@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Zoe-ZhengYijia](https://img.shields.io/badge/Zoe-ZhengYijia-github-blue?logo=github)](https://github.com/Zoe-ZhengYijia)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently pursuing a Master's degree in Communication at the School of Journalism and Communication, Nanjing University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: zyj6240@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.A., Communication, School of Journalism and Communication, Beijing Normal University, 2021–2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computational Communication, Intelligent Communication, Political Communication, International Communication.
 
