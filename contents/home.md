@@ -1,7 +1,8 @@
 
 [Visit my GitHub](https://github.com/Zoe-ZhengYijia)
 
-She is currently pursuing a Master's degree in Communication at the School of Journalism and Communication, Nanjing University.
+I am currently pursuing a Master's degree in Communication at the School of Journalism and Communication, Nanjing University.
+Follow my personal WeChat Official Account for more updates
 
 #### Contact
 
